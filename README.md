@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Joseph / Junior Dev ✨</h1>
+<h1 align="center">Hola 👋, soy Joseph / </h1>
 
 <p align="center">
 <a href="https://www.tiktok.com/@josxphnebiros" target="_blank">
